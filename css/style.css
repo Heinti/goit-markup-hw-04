@@ -712,16 +712,13 @@ color: #FFFFFF;
 
 }
     
-.footer__pos{
- 
-}
-
+.footer__pos
 .footer__socia{
 
-   
 }
 
-.footer__socai__list{
+
+.footer__socia__list{
     display: flex;
     margin-top: 20px;
 
@@ -742,9 +739,11 @@ color: #FFFFFF;
 .footer__socia__item{
     
 }
+ 
 
 .footer__socia__item:not(:last-child){
     margin-right: 10px;
+    
 }
 
 
